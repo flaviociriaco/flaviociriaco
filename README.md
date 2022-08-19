@@ -15,3 +15,8 @@ Connect with me:
 <a href="https://www.linkedin.com/feed/">
 <img align="left" alt="Linkedin" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
+  <br>
+  <br>
+  <br>
+  
+  [![Flavio stats](https://github-readme-stats.vercel.app/api?username=flaviociriaco)](https://github.com/anuraghazra/github-readme-stats)
