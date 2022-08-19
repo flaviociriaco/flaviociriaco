@@ -20,3 +20,5 @@ Connect with me:
   <br>
   
   [![Flavio stats](https://github-readme-stats.vercel.app/api?username=flaviociriaco)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviociriaco)](https://github.com/anuraghazra/github-readme-stats)
