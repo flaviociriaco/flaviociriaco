@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Flávio Ciríaco, sou Desenvolvendor Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou Flávio Ciríaco de Moura, sou Desenvolvendor Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
