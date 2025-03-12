@@ -1,6 +1,6 @@
 ### Olá!  Eu sou Flávio Ciríaco de Moura!
 
-Desenvolvedor Front-End apaixonado por criar interfaces web incríveis. Atualmente, estou cursando Ciência da Computação e explorando o mundo do desenvolvimento web com foco em:
+Desenvolvedor Front-End. Atualmente, estou cursando Ciência da Computação e explorando o mundo do desenvolvimento web com foco em:
 <br>
 
 <p align="left">
