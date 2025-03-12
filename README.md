@@ -18,7 +18,7 @@ Desenvolvedor Front-End apaixonado por criar interfaces web incríveis. Atualmen
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-<a href="flaviociriaco@yahoo.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:flaviociriaco@yahoo.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Yahoo_Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail Badge">
 </a>
 
