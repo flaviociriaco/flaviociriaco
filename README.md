@@ -12,7 +12,7 @@ Desenvolvedor Front-End apaixonado por criar interfaces web incríveis. Atualmen
 <br>
 **Conecte-se comigo:**
 
-* [LinkedIn](https://www.linkedin.com/in/flaviociriaco/): Vamos nos conectar profissionalmente!
+* [LinkedIn](https://www.linkedin.com/in/flaviociriaco/): Vamos nos conectar!
 <br>
 **Contato:**
 
